@@ -10,3 +10,14 @@
 
 Anastasiia:
 Finally learn Git properly and create, albeit a primitive one, a recommender system for finding like-minded people.
+
+Gloire:
+Learn how to use Git and how to use Git project boards.
+How to write better code reviews
+
+
+
+
+
+
+
